@@ -6895,8 +6895,6 @@
   <block id="f99510060ae91e89fdabd39c0e222578" category="paragraph">如果仍要指定外部归档日志文件的位置，请选择 * 指定外部归档日志位置 * 。</block>
   <block id="5207ebbbc32a1a4bd295b43498ad0913" category="paragraph">如果在备份过程中对归档日志进行了修剪，并且您已手动挂载所需的归档日志备份，则必须将挂载的备份路径指定为外部归档日志位置以进行恢复。</block>
   <block id="07a2a06d39605aa9ff4e7d9c550b1f32" category="admonition">您应先验证挂载路径的路径和内容、然后再将其列为外部日志位置。</block>
-  <block id="58fa648380c73e758318652a30ff424d" category="inline-link">NetApp 技术报告 4591 ：《数据库数据保护备份，恢复，复制和灾难恢复》</block>
-  <block id="5e8af025f634ab1bdb43a04eac96f1c3" category="list-text"><block ref="5e8af025f634ab1bdb43a04eac96f1c3" category="inline-link-rx"></block></block>
   <block id="d4242c48bd0d5641374fbc107c7d9f14" category="inline-link">操作失败，并显示 ORA-00308 错误</block>
   <block id="79ca58af823b457a1798d606cfd6d6ae" category="list-text"><block ref="79ca58af823b457a1798d606cfd6d6ae" category="inline-link-rx"></block></block>
   <block id="73ee3801ba5f54ed62d44865741a046d" category="paragraph">如果归档日志卷不受保护，但数据卷受保护，则无法通过从二级备份恢复来执行还原。只能通过选择 * 无恢复 * 来还原。</block>
@@ -9028,4 +9026,6 @@
   <block id="75b8e448161fa30feba883267dc81521" category="sidebar">使用UNIX命令备份</block>
   <block id="de148ec1fc3c9bb7b03f1506761bed93" category="sidebar">查看备份</block>
   <block id="3dd76484b16fcbb6b760975e3feaba70" category="sidebar">克隆 Oracle 数据库</block>
+  <block id="9e19caeb431a5e29a1a63e3cee4b36c9" category="inline-link">借助ONTAP实现Oracle数据保护</block>
+  <block id="d118010bb2b3542007c6749bfd237123" category="list-text"><block ref="d118010bb2b3542007c6749bfd237123" category="inline-link-rx"></block></block>
 </blocks>
