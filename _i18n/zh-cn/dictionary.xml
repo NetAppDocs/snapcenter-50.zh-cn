@@ -2383,12 +2383,6 @@
   <block id="6d84e3718084e0db779da4ff8791a2f2" category="doc">支持的浏览器</block>
   <block id="986c37480b1f1c2e443504b38b6361b4" category="list-text">Chrome</block>
   <block id="9b5c943f3d46ea12de31408c6912a1e9" category="paragraph">如果您使用的是 v66 ，则可能无法启动 SnapCenter 图形用户界面。</block>
-  <block id="ebe4f447bd3316e4f81ab2a6d2f26810" category="list-text">Internet Explorer</block>
-  <block id="74e84f9442fdb7717385ee092400869a" category="paragraph">如果您使用的是 IE 10 或更早版本，则无法正确加载 SnapCenter UI 。您应升级到 IE 11 。</block>
-  <block id="8b45fc0c82a493bebd2ae705881299e0" category="list-text">仅支持默认级别的安全性。</block>
-  <block id="8c39fdaac8e8c7ec5824fd1acda14c9a" category="paragraph">更改 Internet Explorer 安全设置会导致出现严重的浏览器显示问题。</block>
-  <block id="c5c74f2a0046f37ca93f6d8e3c775364" category="list-text">必须禁用 Internet Explorer 兼容性视图。</block>
-  <block id="a5c41f715c1b8a880253846c025624e9" category="list-text">Microsoft Edge</block>
   <block id="0399ed9d4322925cd652419c6e80ccbb" category="paragraph">有关受支持版本的最新信息，请参见<block ref="6b3ef4eef08ac0feed960a06e1cce7e2" category="inline-link-rx"></block>。</block>
   <block id="ba7cbf773bd0f0004c4d97fba5034cdb" category="summary">您应了解支持的存储系统，应用程序和数据库。</block>
   <block id="1e1ed4854c77f284f3e97b0843b6e570" category="doc">支持的存储系统和应用程序</block>
@@ -9028,4 +9022,7 @@
   <block id="3dd76484b16fcbb6b760975e3feaba70" category="sidebar">克隆 Oracle 数据库</block>
   <block id="9e19caeb431a5e29a1a63e3cee4b36c9" category="inline-link">借助ONTAP实现Oracle数据保护</block>
   <block id="d118010bb2b3542007c6749bfd237123" category="list-text"><block ref="d118010bb2b3542007c6749bfd237123" category="inline-link-rx"></block></block>
+  <block id="5438f8c09e5ea2be33bd2ce16c8b5123" category="admonition">从SnapCenter 5.0开始、只有REST API才支持Vserver管理员用户。如果要使用非Vserver admin创建角色、应使用ZAPI。</block>
+  <block id="f5a551e6a3161ca6d9ee33d926d734d5" category="list-text">Microsoft Edge 110.0.1857.17及更高版本</block>
+  <block id="3955db71dd681bf23ceee85c567a0129" category="admonition">从SnapCenter 5.0开始、只有REST API才支持集群管理员用户。如果要使用非集群管理员创建角色、应使用ZAPI。</block>
 </blocks>
