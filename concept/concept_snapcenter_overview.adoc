@@ -86,7 +86,7 @@ SnapCenter 包含 REST API ，可提供与任何业务流程软件集成的大�
 有关REST API的详细信息，请参见 https://docs.netapp.com/us-en/snapcenter/sc-automation/overview_rest_apis.html["REST API概述"]。
 
 +
-有关Windows cmdlet的详细信息，请参阅 https://library.netapp.com/ecm/ecm_download_file/ECMLP2886895["《 SnapCenter 软件 cmdlet 参考指南》"^]。
+有关Windows cmdlet的详细信息，请参阅 https://docs.netapp.com/us-en/snapcenter-cmdlets-50/index.htmllllll["《 SnapCenter 软件 cmdlet 参考指南》"^]。
 
 +
 有关UNIX命令的详细信息，请参见 https://library.netapp.com/ecm/ecm_download_file/ECMLP2886896["《 SnapCenter 软件命令参考指南》"^]。

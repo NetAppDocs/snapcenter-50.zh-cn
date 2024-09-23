@@ -26,7 +26,7 @@ link:task_back_up_resource_groups_sap_hana.html["备份资源组"]
 
 * 如果要在一个或多个租户数据库已关闭时创建基于文件的备份、请使用cmdlet在HANA属性文件中将Allow file based backup_IFINACTIVE_LATERS_present参数设置为*是* `Set-SmConfigSettings` 。
 +
-有关可与 cmdlet 结合使用的参数及其说明的信息，可通过运行 get-help _command_name_ 来获取。或者、您也可以参考 https://library.netapp.com/ecm/ecm_download_file/ECMLP2886895["《 SnapCenter 软件 cmdlet 参考指南》"]
+有关可与 cmdlet 结合使用的参数及其说明的信息，可通过运行 get-help _command_name_ 来获取。或者、您也可以参考 https://docs.netapp.com/us-en/snapcenter-cmdlets-50/index.html["《 SnapCenter 软件 cmdlet 参考指南》"]
 
 * 对于用于qui陈述、Snapshot和unqui陈述 操作的前后命令、您应通过以下路径检查这些命令是否位于插件主机上可用的命令列表中：
 +
