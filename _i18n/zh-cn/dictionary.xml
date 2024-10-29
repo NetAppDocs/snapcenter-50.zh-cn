@@ -2382,7 +2382,6 @@
   <block id="ba7cbf773bd0f0004c4d97fba5034cdb" category="summary">您应了解支持的存储系统，应用程序和数据库。</block>
   <block id="1e1ed4854c77f284f3e97b0843b6e570" category="doc">支持的存储系统和应用程序</block>
   <block id="ed3518bf4a914f119b6bdecebdd5768f" category="paragraph">您应了解支持的存储系统，应用程序和数据库。</block>
-  <block id="c8f093093364799903de04dd2e4130fd" category="list-text">SnapCenter 支持 ONTAP 8.3.0 及更高版本来保护数据。</block>
   <block id="213ee580d561421ab50f46ea0b22affa" category="list-text">SnapCenter 支持适用于 NetApp ONTAP 的 Amazon FSx ，以保护您的数据免受 SnapCenter 软件 4.5 P1 修补版本的影响。</block>
   <block id="dc39fb71951ab3bfb20cab9c1beb9446" category="paragraph">如果您使用的是适用于 NetApp ONTAP 的 Amazon FSx ，请确保 SnapCenter 服务器主机插件升级到 4.5 P1 或更高版本以执行数据保护操作。</block>
   <block id="cc788b7e72b2a734dd0985bd1e0e9fe3" category="inline-link">Amazon FSX for NetApp ONTAP 文档</block>
@@ -9030,4 +9029,5 @@
   <block id="220234cac5f472ab02817a1099c26930" category="paragraph">有关可与 cmdlet 结合使用的参数及其说明的信息，可通过运行 _get-help command_name_ 来获取。或者，您也可以参考<block ref="e051f2ead2ef95df859014c037130e5b" category="inline-link-rx"></block>。</block>
   <block id="f2aad7603f69fb3a7bd74475faf67941" category="paragraph">有关可与 cmdlet 结合使用的参数及其说明的信息，可通过运行 _get-help command_name_ 来获取。或者、您也可以参考<block ref="e051f2ead2ef95df859014c037130e5b" category="inline-link-rx"></block></block>
   <block id="1c3e9ee54ab1c8453c33bb85580d9d14" category="paragraph">此外，您还可以使用 _Uninstall-SmHostPackage_ cmdlet 和所需参数从多个主机卸载插件。有关可与 cmdlet 结合使用的参数及其说明的信息，可通过运行 _get-help command_name_ 来获取。或者，您也可以参考<block ref="e051f2ead2ef95df859014c037130e5b" category="inline-link-rx"></block>。</block>
+  <block id="dddf91700099a41aae12a91632f8108f" category="list-text">SnapCenter支持ONTAP 9™8及更高版本以保护您的数据。</block>
 </blocks>
