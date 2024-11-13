@@ -188,7 +188,7 @@ RequireFileSystemClone
 
 
 
-https://docs.netapp.com/us-en/snapcenter-cmdlets-50/index.htmll["《 SnapCenter 软件 cmdlet 参考指南》"^](英文)
+https://docs.netapp.com/us-en/snapcenter-cmdlets-50/index.html["《 SnapCenter 软件 cmdlet 参考指南》"^](英文)
 
 
 

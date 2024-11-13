@@ -22,7 +22,7 @@ summary: '如果单个自定义插件资源不属于任何资源组，您可以�
 . 在左侧导航窗格中，单击 * 资源 * ，然后从列表中选择相应的插件。
 . 在资源页面中，根据资源类型从 * 视图 * 下拉列表中筛选资源。
 +
-单击 image:../media/filter_icon.png[""]，然后选择主机名和资源类型以筛选资源。然后、您可以单击 image:../media/filter_icon.png["筛选器图标"] 以关闭筛选器窗格。
+单击 image:../media/filter_icon.gif["筛选器图标"]，然后选择主机名和资源类型以筛选资源。然后、您可以单击 image:../media/filter_icon.gif["筛选器图标"] 以关闭筛选器窗格。
 
 . 单击要备份的资源。
 . 在资源页面中，如果要使用自定义名称，请选中*Use custom name format for Snapshot copy*复选框，然后为Snapshot名称输入自定义名称格式。
@@ -56,7 +56,7 @@ summary: '如果单个自定义插件资源不属于任何资源组，您可以�
 
 |===
 +
-image:../media/application_settings.gif["应用程序设置页面"]
+image:../media/application_settings.gif["一致性组备份选项的屏幕截图：紧急、中等或宽松。"]
 
 .. 单击*Scripts*箭头可运行用于静修、快照和取消静修操作的PRE和POST命令。您也可以在退出备份操作之前运行 PRE 命令。
 +

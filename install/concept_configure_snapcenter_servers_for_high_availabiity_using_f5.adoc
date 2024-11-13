@@ -18,7 +18,7 @@ IMPORTANT: 如果您已从 SnapCenter 4.2.x 升级，并且先前使用的是网
 
 此工作流图列出了使用 F5 负载平衡器配置 SnapCenter 服务器以实现高可用性的步骤。有关详细说明，请参阅 https://kb.netapp.com/Advice_and_Troubleshooting/Data_Protection_and_Security/SnapCenter/How_to_configure_SnapCenter_Servers_for_high_availability_using_F5_Load_Balancer["如何使用 F5 负载平衡器配置 SnapCenter 服务器以实现高可用性"^]。
 
-image::../media/sc-F5-configure-workflow.png[SC F5 配置工作流]
+image::../media/sc-F5-configure-workflow.gif[使用F5配置高可用性]
 
 您必须是 SnapCenter 服务器上本地管理员组的成员（除了分配给 SnapCenterAdmin 角色之外），才能使用以下 cmdlet 添加和删除 F5 集群：
 

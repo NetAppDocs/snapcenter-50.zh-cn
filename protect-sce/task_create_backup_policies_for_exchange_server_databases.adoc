@@ -278,7 +278,7 @@ NOTE: 如果您的数据库在 DAG 配置中的主机上仅具有日志备份，
 
 单击"Topology"页面中的*Refresh*按钮可刷新从ONTAP检索到的二级和主SnapLock到期时间。
 
-请参阅。 link:..protect-sce/task_view_exchange_backups_in_the_topology_page.html["在 Topology 页面中查看 Exchange 备份"]
+请参阅。 link:task_view_exchange_backups_in_the_topology_page.html["在 Topology 页面中查看 Exchange 备份"]
  a| 
 选择此选项可将备份集的镜像副本保留在另一个卷（ SnapMirror ）上。
 

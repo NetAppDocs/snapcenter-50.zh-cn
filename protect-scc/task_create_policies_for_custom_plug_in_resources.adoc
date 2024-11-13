@@ -119,7 +119,7 @@ SnapLock保留期限应少于100年。
 
 单击"Topology"页面中的*Refresh*按钮可刷新从ONTAP检索到的二级和主SnapLock到期时间。
 
-请参阅。 link:protect-scc/task_view_custom_plug_in_resource_backups_and_clones_in_the_topology_page.html["在 Topology 页面中查看与自定义插件资源相关的备份和克隆"]
+请参阅。 link:task_view_custom_plug_in_resource_backups_and_clones_in_the_topology_page.html["在 Topology 页面中查看与自定义插件资源相关的备份和克隆"]
 
 
 
@@ -134,7 +134,7 @@ SnapLock保留期限应少于100年。
 
 有关SnapLock存储的详细信息、请参阅将快照提交到存储目标上的WORM
 
-请参阅。 link:protect-scc/task_view_custom_plug_in_resource_backups_and_clones_in_the_topology_page.html["在 Topology 页面中查看与自定义插件资源相关的备份和克隆"]
+请参阅。 link:task_view_custom_plug_in_resource_backups_and_clones_in_the_topology_page.html["在 Topology 页面中查看与自定义插件资源相关的备份和克隆"]
 
 
 
