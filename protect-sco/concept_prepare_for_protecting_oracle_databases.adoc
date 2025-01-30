@@ -38,13 +38,7 @@ NOTE: SnapCenter 不支持在不同集群上使用相同名称的多个 SVM 。�
 ** 如果 SVM 中有多个数据路径（ LIF ），则 SnapCenter 会选择适当的数据路径（ LIF ）来挂载 NFS 克隆卷。但是，如果要指定特定数据路径（ LIF ），则必须运行 Set-SvmPreferredDataPath CLI 。命令参考指南提供了更多信息。
 
 
-* 如果在 SAN 环境中使用 Oracle 数据库，请确保按照以下指南中所述的建议配置 SAN 环境：
-+
-** https://library.netapp.com/ecm/ecm_download_file/ECMLP2547957["Linux Unified Host Utilities 的建议主机设置"^]
-** https://library.netapp.com/ecm/ecm_download_file/ECMLP2547958["将 Linux 主机与 ONTAP 存储结合使用"^]
-** https://library.netapp.com/ecm/ecm_download_file/ECMP1119218["受 AIX Host Utilities 影响的主机设置"^]
-
-
+* 如果在SAN环境中有Oracle数据库，请确保按照中所述的建议配置SAN环境 https://library.netapp.com/ecm/ecm_download_file/ECMP1119218["受 AIX Host Utilities 影响的主机设置"^]。
 * 如果 Oracle 数据库位于 Oracle Linux 或 RHEL 操作系统中的 LVM 上，请安装最新版本的逻辑卷管理（ LVM ）。
 * 如果您使用的是适用于 Oracle 的 SnapManager ，并且希望迁移到适用于 Oracle 数据库的 SnapCenter 插件，则可以使用 sccli 命令 sc-migrate 将配置文件迁移到 SnapCenter 的策略和资源组。
 * 如果要进行备份复制，请在 ONTAP 上配置 SnapMirror 和 SnapVault

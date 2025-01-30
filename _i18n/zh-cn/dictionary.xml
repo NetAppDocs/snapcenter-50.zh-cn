@@ -5674,13 +5674,7 @@
   <block id="e3bcbd4b72b9abcfba6dd89fa833c9d7" category="list-text">您应将应用程序防火墙的超时值设置为 3 小时或更长时间。</block>
   <block id="2f66d67da390e5c77db3fc5e681393ab" category="list-text">如果在 NFS 环境中使用 Oracle 数据库，则必须至少为主存储或二级存储配置一个 NFS 数据 LIF ，才能执行挂载，克隆，验证和还原操作。</block>
   <block id="904e44e9990e7591adda05fc061919d3" category="list-text">如果 SVM 中有多个数据路径（ LIF ），则 SnapCenter 会选择适当的数据路径（ LIF ）来挂载 NFS 克隆卷。但是，如果要指定特定数据路径（ LIF ），则必须运行 Set-SvmPreferredDataPath CLI 。命令参考指南提供了更多信息。</block>
-  <block id="0d38af714784f793aaf023f367e4c39b" category="list-text">如果在 SAN 环境中使用 Oracle 数据库，请确保按照以下指南中所述的建议配置 SAN 环境：</block>
-  <block id="26b193fe4fa8dbe180bbe20800729e6b" category="inline-link">Linux Unified Host Utilities 的建议主机设置</block>
-  <block id="e705af1c7f38eac38e2f493fc039f70e" category="list-text"><block ref="e705af1c7f38eac38e2f493fc039f70e" category="inline-link-rx"></block></block>
-  <block id="e41304e7d689f8fed5c98620228184cf" category="inline-link">将 Linux 主机与 ONTAP 存储结合使用</block>
-  <block id="4261289fb5bad467a2ad973679d86c14" category="list-text"><block ref="4261289fb5bad467a2ad973679d86c14" category="inline-link-rx"></block></block>
   <block id="b1ada800560d7bd73c2da9a36d6ae229" category="inline-link">受 AIX Host Utilities 影响的主机设置</block>
-  <block id="9e202af09678a2aeb1c20235b8ed2aad" category="list-text"><block ref="9e202af09678a2aeb1c20235b8ed2aad" category="inline-link-rx"></block></block>
   <block id="ba09c94fed381b580a726fc94531b160" category="list-text">如果 Oracle 数据库位于 Oracle Linux 或 RHEL 操作系统中的 LVM 上，请安装最新版本的逻辑卷管理（ LVM ）。</block>
   <block id="8770246977269a639c8c2818412dc3ac" category="list-text">如果您使用的是适用于 Oracle 的 SnapManager ，并且希望迁移到适用于 Oracle 数据库的 SnapCenter 插件，则可以使用 sccli 命令 sc-migrate 将配置文件迁移到 SnapCenter 的策略和资源组。</block>
   <block id="4c893189fecc8b6e5c41ae931ffd7f89" category="list-text">如果要进行备份复制，请在 ONTAP 上配置 SnapMirror 和 SnapVault</block>
@@ -9014,4 +9008,5 @@
   <block id="a67e0e0c5dea92d024cd90ac412f110f" category="paragraph">有关卸载适用于VMware vSphere的SnapCenter插件的信息、请参见https：//docs.vmware.com/us-en/SC-plugin-vmware-vsphere /scpivers44_remove_plugin.html [Remove SnapCenter Plug-in for NetApp vSphere^。</block>
   <block id="9370db25bd6766721eb2110afcff56b0" category="image-alt">SnapCenter升级工作流</block>
   <block id="d127c7070231e882bd97e8f2760d0a4f" category="sidebar">SnapCenter 软件文档</block>
+  <block id="90fd1a3ce44c78f7c0d4b87a3e5f6ad1" category="list-text">如果在SAN环境中有Oracle数据库，请确保按照中所述的建议配置SAN环境<block ref="c4f7653512cf02eacb80aa4d3d06e4f7" category="inline-link-rx"></block>。</block>
 </blocks>
