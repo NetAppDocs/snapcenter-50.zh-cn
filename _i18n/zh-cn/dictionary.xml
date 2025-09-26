@@ -7132,7 +7132,6 @@
   <block id="953acf14bebe77c11e648186f3957214" category="list-text">您必须具有对 SQL Server 具有 sysadmin 权限的用户。</block>
   <block id="d165009fc919b7c43f63036983c47ae0" category="paragraph">适用于 Microsoft SQL Server 的 SnapCenter 插件使用 Microsoft VDI Framework ，这需要 sysadmin 访问权限。</block>
   <block id="9221af74572734362746f0af9104d884" category="inline-link">Microsoft 支持文章 2926557 ： SQL Server VDI 备份和还原操作需要 sysadmin 特权</block>
-  <block id="c081ea6f4c7f13224651487050d87831" category="paragraph"><block ref="c081ea6f4c7f13224651487050d87831" category="inline-link-rx"></block></block>
   <block id="9c9a08a242e9f6311be9fa5bd945d582" category="list-text">如果安装了 SnapManager for Microsoft SQL Server ，则必须已停止或禁用此服务和计划。</block>
   <block id="1931c747684bb6010ac638ae2be606b3" category="paragraph">如果您计划将备份或克隆作业导入到 SnapCenter 中，请勿卸载适用于 Microsoft SQL Server 的 SnapManager 。</block>
   <block id="024ecfe0da835b1f362b5e64ec1408ab" category="list-text">主机必须可从服务器解析为完全限定域名（ FQDN ）。</block>
@@ -9009,4 +9008,5 @@
   <block id="90fd1a3ce44c78f7c0d4b87a3e5f6ad1" category="list-text">如果在SAN环境中有Oracle数据库，请确保按照中所述的建议配置SAN环境<block ref="c4f7653512cf02eacb80aa4d3d06e4f7" category="inline-link-rx"></block>。</block>
   <block id="c23d56866a5b11fd0d8dc189fcf21298" category="list-text"><block ref="341e3fddad4b27511133b6917a75bb8a" category="inline-link-rx"></block></block>
   <block id="57cf9c4ee485623172a5c60cbee423a4" category="paragraph">观看 <block ref="96716f545c5cf1a209bf10c1a798ce38" category="inline-link-macro-rx"></block> 视频。</block>
+  <block id="2af0fc8c21c11cf5ed04e0063f53931e" category="paragraph"><block ref="2af0fc8c21c11cf5ed04e0063f53931e" category="inline-link-rx"></block></block>
 </blocks>
